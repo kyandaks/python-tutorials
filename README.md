@@ -9,5 +9,7 @@ This repo has all my practice sets as a python Ninja
 My preferred code editor - Visual Studio Code 
 Download link: https://code.visualstudio.com/
 
+
 note = 'Python 3 is a great programming language'
+
 print(note)
